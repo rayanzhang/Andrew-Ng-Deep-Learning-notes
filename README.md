@@ -10,8 +10,6 @@
 
 ## 代码
 
-本仓库暂时只包含本人已完成的各课练习代码，请在 [assignments 文件夹](https://github.com/bighuang624/Andrew-Ng-Deep-Learning-notes/tree/master/assignments)下查找。你可以通过在 github 上搜索 deeplearning.ai 找到很多含有未完成的练习代码的库。
-
 另推荐一份[已完成的各课练习代码](https://github.com/JudasDie/deeplearning.ai)。
 
 ## 课程地址
@@ -20,10 +18,7 @@
 
 ## Github
 
-[项目地址](https://github.com/bighuang624/Andrew-Ng-Deep-Learning-notes)
-
-* 本人也尚在学习中，水平有限。如果确认内容中存在谬误，**欢迎提出 issue 或者 pull request**。
-* 如果您觉得有帮助，不妨**点一个 star** 以资鼓励。
+[项目地址](https://github.com/rayanzhang/Andrew-Ng-Deep-Learning-notes)
 
 ## 参考资料
 
